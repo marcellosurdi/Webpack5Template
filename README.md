@@ -13,15 +13,18 @@ Make sure that you have [Node.js](http://nodejs.org/) installed, then:
 ```
 npm run dev
 ```
-You can view the development server at localhost:3001.
+Webpack will open the development server at localhost:3001 in Chrome.
 
 ### Production build
 ```
 npm run build
 ```
-You can view build files in `dist` folder.
+Webpack builds files in `dist` folder.
 
 ### JSDoc
 ```
 npm run jsdoc
 ```
+ You can view documentation in `docs` folder.
+
+ That's it!

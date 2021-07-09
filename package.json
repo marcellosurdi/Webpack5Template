@@ -1,7 +1,7 @@
 {
   "name": "webpack5-template",
   "description": "Webpack 5 template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [],
   "main": "main.js",
   "repository": {},
@@ -11,7 +11,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "webpack serve --config config/webpack.dev.js --open chrome",
-    "build": "webpack --config config/webpack.prod.js --env BUILD"
+    "build": "webpack --config config/webpack.prod.js --env BUILD",
+    "jsdoc": "jsdoc -r src -d docs -R README.md -c jsdoc.json"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",

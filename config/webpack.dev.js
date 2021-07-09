@@ -32,6 +32,8 @@ module.exports = ( env, argv ) => {
         watchContentBase: true,
 
         hot: true,
+
+        port: 3001,
       },
 
       plugins: [

@@ -1,7 +1,7 @@
 # Webpack 5 template
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/marcellosurdi/Webpack5Template)
 
-Webpack 5 template using Babel, Sass, JSDoc, a hot dev server and an optimized production build.
+Webpack 5 template using Babel, Sass, JSDoc, a hot dev server and an optimized production build. Inspired by Tania Rascia's [Webpack Boilerplate](https://github.com/taniarascia/webpack-boilerplate)
 
 ## Usage
 Make sure that you have [Node.js](http://nodejs.org/) installed, then:
@@ -19,12 +19,12 @@ Webpack will open the development server at localhost:3001 in Chrome.
 ```
 npm run build
 ```
-Webpack builds compiled files in `dist` folder.
+Webpack will build compiled files in `dist` folder.
 
 ### JSDoc
 ```
 npm run jsdoc
 ```
-You can view JSDoc documentation in `docs` folder.
+After command execution you will be able to see JSDoc documentation in `docs` folder.
 
 That's it!

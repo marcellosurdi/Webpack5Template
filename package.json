@@ -1,7 +1,7 @@
 {
   "name": "webpack5-template",
   "description": "Webpack 5 template",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [],
   "main": "main.js",
   "repository": {},

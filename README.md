@@ -6,7 +6,7 @@ Webpack 5 template using Babel, Sass, JSDoc, a hot dev server and an optimized p
 ## Usage
 Make sure that you have [Node.js](http://nodejs.org/) installed, then:
 1. Fork and clone the [GitHub repository](https://github.com/marcellosurdi/Webpack5Template).
-2. From the command line go to the local webpack-5-template folder.
+2. From the command line go to the local Webpack5Template folder.
 3. Run `npm install` and wait for the necessary modules installation. [Webpack](https://webpack.js.org/guides/installation/#root) will be installed, look at the other dev dependencies in `package.json` file.
 
 ### Development server
@@ -25,6 +25,6 @@ Webpack builds compiled files in `dist` folder.
 ```
 npm run jsdoc
 ```
- You can view documentation in `docs` folder.
+You can view JSDoc documentation in `docs` folder.
 
- That's it!
+That's it!
